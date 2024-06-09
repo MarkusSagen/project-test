@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "project_test"
+version = "0.1.0"
+description = ""
+authors = ["Markus Sagen <Markus.John.Sagen@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<=3.11"
+scikit-learn = "1.5.0"
+
+[tool.poetry.group.dev.dependencies]
+ruff = "0.4.8"
+pytest = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

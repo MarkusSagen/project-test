@@ -1,0 +1,5 @@
+# Changes here will be overwritten by Copier
+_commit: db91892
+_src_path: git@github.com:MarkusSagen/copier-template-test.git
+module_name: project_test
+project_name: project-test
