@@ -12,6 +12,7 @@ poetry install
 ## Run
 
 ```sh
-poetry run src/project_test/project_test.py.jinja
+poetry run python src/project_test/project_test.py
 ```
 # project-test
+
